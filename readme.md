@@ -3,6 +3,14 @@
 This is just a simple script I wrote to fetch the "userInteractionCount" from the plugin pages. 
 It is made in a way that you can pipe a file with plugins to this script, or interactively use it when ran.
 
+**pipe input**
+![Pipe example](https://raw.githubusercontent.com/wiardvanrij/Fetch-Wordpress-userInteractionCount/master/img/live-example.gif)
+
+**Direct input**
+
+![Live example](https://raw.githubusercontent.com/wiardvanrij/Fetch-Wordpress-userInteractionCount/master/img/live-example.gif)
+
+
 ## Workings
 
 It requires the **slug** of the plugin. See test.txt for examples.
