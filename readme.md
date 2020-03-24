@@ -5,7 +5,7 @@ It is made in a way that you can pipe a file with plugins to this script, or int
 
 **pipe input**
 
-![Pipe example](https://raw.githubusercontent.com/wiardvanrij/Fetch-Wordpress-userInteractionCount/master/img/live-example.gif)
+![Pipe example](https://raw.githubusercontent.com/wiardvanrij/Fetch-Wordpress-userInteractionCount/master/img/pipe-example.gif)
 
 **Direct input**
 
