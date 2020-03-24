@@ -4,6 +4,7 @@ This is just a simple script I wrote to fetch the "userInteractionCount" from th
 It is made in a way that you can pipe a file with plugins to this script, or interactively use it when ran.
 
 **pipe input**
+
 ![Pipe example](https://raw.githubusercontent.com/wiardvanrij/Fetch-Wordpress-userInteractionCount/master/img/live-example.gif)
 
 **Direct input**
