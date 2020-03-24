@@ -11,6 +11,8 @@ It is made in a way that you can pipe a file with plugins to this script, or int
 
 ![Live example](https://raw.githubusercontent.com/wiardvanrij/Fetch-Wordpress-userInteractionCount/master/img/live-example.gif)
 
+## tl;dr
+Just check the releases for your flavor and go.
 
 ## Workings
 
@@ -24,7 +26,9 @@ The other option is to start the program, in which you just type or paste your s
 
 ## Builds
 
-I recommend just using `go run main.go` or build it yourself. Though I've provided 3 builds in the /builds folder... 
+I recommend just using `go run main.go` or build it yourself. 
+Though you can find the releases here: https://github.com/wiardvanrij/Fetch-Wordpress-userInteractionCount/releases
+
 
 ## Support
 
